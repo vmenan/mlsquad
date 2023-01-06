@@ -7,4 +7,4 @@ Site for creating files with Markdown features: https://stackedit.io/app# (Can b
 
 *For next week 13/1/2023:
 Watch Zoomcamp videos 1.0-1.10
-Re-read NLP articles*
+/n Re-read NLP articles*
