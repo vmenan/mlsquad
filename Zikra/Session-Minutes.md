@@ -6,5 +6,5 @@ Confidence interval evaluation of ML Classifier models by Sebastian to be read a
 Site for creating files with Markdown features: https://stackedit.io/app# (Can be used to track coding projects, etc)
 
 *For next week 13/1/2023:  
-  -- Watch Zoomcamp videos 1.0-1.10  
+  -- Watch Zoomcamp videos 1.0-1.10 https://youtube.com/watch?v=MqI8vt3-cag&si=EnSIkaIECMiOmarE  
   -- Re-read NLP articles*
